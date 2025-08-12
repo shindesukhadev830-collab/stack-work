@@ -14,7 +14,7 @@ To offer a straightforward, privacy-preserving way for learners to prove complet
 - Build a user-friendly frontend and wallet integration to ease proof submission and verification.
 -
 - <img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/d410c34e-ab60-496c-a81c-ba016d320aa4" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/681c4274-935b-4621-bede-d680788fd436" />
+
 ST2A1GCKB8WXXGE3V0H901XGB0NYXBA39V4C5QK4D.simple-token
 
 
