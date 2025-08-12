@@ -12,3 +12,6 @@ To offer a straightforward, privacy-preserving way for learners to prove complet
 - Integrate with decentralized identity (DID) solutions for better user control.
 - Implement selective disclosure to reveal only certain attributes of a proof.
 - Build a user-friendly frontend and wallet integration to ease proof submission and verification.
+-
+- <img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/d410c34e-ab60-496c-a81c-ba016d320aa4" />
+
